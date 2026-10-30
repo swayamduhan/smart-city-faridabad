@@ -1,0 +1,122 @@
+{
+  "palace": {
+    "file": "/images/palace.jpg",
+    "title": "Nahar Singh Palace, Ballabhgarh.jpg",
+    "width": 1800,
+    "height": 2905,
+    "artist": "Wiki.cowboy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Nahar_Singh_Palace,_Ballabhgarh.jpg"
+  },
+  "kund": {
+    "file": "/images/kund.jpg",
+    "title": "Suraj Kund Masonary 044.jpg",
+    "width": 1800,
+    "height": 1200,
+    "artist": "Anupamg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Suraj_Kund_Masonary_044.jpg"
+  },
+  "kundsteps": {
+    "file": "/images/kundsteps.jpg",
+    "title": "Suraj Kund Masonary 074.jpg",
+    "width": 1800,
+    "height": 1200,
+    "artist": "Anupamg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Suraj_Kund_Masonary_074.jpg"
+  },
+  "sign": {
+    "file": "/images/sign.jpg",
+    "title": "\"Aao Surajkund Chale\" Surajkund Fair 2019.jpg",
+    "width": 1800,
+    "height": 2400,
+    "artist": "Tarun4u",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:%22Aao_Surajkund_Chale%22_Surajkund_Fair_2019.jpg"
+  },
+  "lamps": {
+    "file": "/images/lamps.jpg",
+    "title": "Surajkund mela.jpg",
+    "width": 1800,
+    "height": 2598,
+    "artist": "Pandey251196",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Surajkund_mela.jpg"
+  },
+  "metro": {
+    "file": "/images/metro.jpg",
+    "title": "Faridabad Old metro station.jpg",
+    "width": 1800,
+    "height": 1013,
+    "artist": "Ashish itct",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Faridabad_Old_metro_station.jpg"
+  },
+  "skyway": {
+    "file": "/images/skyway.jpg",
+    "title": "Delhi Faridabad Skyway.png",
+    "width": 1280,
+    "height": 720,
+    "artist": "RISHABHNAGPAL20",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Delhi_Faridabad_Skyway.png"
+  },
+  "street": {
+    "file": "/images/street.jpg",
+    "title": "Faridabad Street.JPG",
+    "width": 1800,
+    "height": 1350,
+    "artist": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Faridabad_Street.JPG"
+  },
+  "badkhal": {
+    "file": "/images/badkhal.jpg",
+    "title": "Dried Badkhal lake.jpg",
+    "width": 1280,
+    "height": 960,
+    "artist": "Aradhya (talk)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Dried_Badkhal_lake.jpg"
+  },
+  "charminar": {
+    "file": "/images/charminar.jpg",
+    "title": "Charminar \"Surajkund\".jpg",
+    "width": 1040,
+    "height": 780,
+    "artist": "Tarun4u",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Charminar_%22Surajkund%22.jpg"
+  },
+  "folk": {
+    "file": "/images/folk.jpg",
+    "title": "Pothuraju Artist in Culture of Telangana Programme at Surajkund, Haryana (02.02.2016) 07.jpg",
+    "width": 1800,
+    "height": 1200,
+    "artist": "Department of Language and Culture, Government of Telangana",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Pothuraju_Artist_in_Culture_of_Telangana_Programme_at_Surajkund,_Haryana_(02.02.2016)_07.jpg"
+  },
+  "station": {
+    "file": "/images/station.jpg",
+    "title": "Ballabgarh railway station.jpg",
+    "width": 1727,
+    "height": 711,
+    "artist": "Nikhilb239",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ballabgarh_railway_station.jpg"
+  }
+}
